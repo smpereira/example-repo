@@ -1,3 +1,4 @@
 *.todo.txt.*
 *.jpg
 *jpeg
+*DS_store
