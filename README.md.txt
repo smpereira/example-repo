@@ -1,4 +1,2 @@
-#Example Repository
-Hello World
-
-This is a second change
+# Git Essentials / Git For Everybody
+Visit gitforeverybody.com for free tutorials and the full course.
